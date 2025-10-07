@@ -75,5 +75,8 @@ Program for logic gates and verify its truth table in quartus using Verilog prog
 **RTL**
 
 **Result:**
+<img width="1920" height="1080" alt="exp1 timing diagram" src="https://github.com/user-attachments/assets/452cc21c-fa77-4244-bf52-19503c9ac90a" />
+<img width="1080" height="1920" alt="logic exp1" src="https://github.com/user-attachments/assets/b04d1d30-e5f5-4605-aba7-b94bed75f3a6" />
+
 
 
